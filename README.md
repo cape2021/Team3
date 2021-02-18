@@ -1,4 +1,4 @@
-# Team3
+# Team3 The name of my plant is Niko-chan
 Cape 2021 Workshop Team 3 Repository
 
 # [Argyranthemum frutescens "Smash double apricot"　（マーガレット)](https://en.wikipedia.org/wiki/Argyranthemum_frutescens)
